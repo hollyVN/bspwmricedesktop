@@ -9,7 +9,7 @@ My top tray is polybar
 
 The compositor is Picom but my machine is only 2 Gb RAM so I set up "backend = xrender",
 however you should set it "backend = glx" to smooth border curve.
-And I use terminal kitty for indicator image at neofetch. Nice ha! chainsawnam for wibu......
+And I use terminal kitty for indicator image at neofetch. Nice ha! chainsawman for wibu......
 ![myrice](https://user-images.githubusercontent.com/122336142/211496448-7a19a553-19cd-47ba-b4b6-83028d1ac5d6.png)
 
 
